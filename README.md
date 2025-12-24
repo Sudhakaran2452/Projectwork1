@@ -27,18 +27,21 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="1110" height="554" alt="Screenshot 2025-12-23 095017" src="https://github.com/user-attachments/assets/54dfef79-ab39-424c-920b-2da160529bfe" />
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Detect object
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="916" height="596" alt="Screenshot 2025-12-24 110137" src="https://github.com/user-attachments/assets/3d8795a2-dfc9-4083-a38a-19989d04cbcb" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+#### Output2 - Trigger vibration
+
+<img width="372" height="429" alt="Screenshot 2025-12-24 110628" src="https://github.com/user-attachments/assets/14419edf-ccfd-49e4-ace2-044be53fd429" />
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
